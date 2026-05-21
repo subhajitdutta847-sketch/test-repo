@@ -1,6 +1,6 @@
 # Main.py
 
-"""This module for blablabla"""
+"""This module for the main branch"""
 
 import double_it    # first way to import
 
